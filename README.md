@@ -15,8 +15,8 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 > These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?
 ## List
 
-1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5)
-2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers)
+1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - ***[SOLUTION](/tasks/fiboEvenSum.js)***
+2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - ***[SOLUTION](tasks/multiplesOf3and5.js)***
 
 
 ## Problem 1: Multiples of 3 and 5
