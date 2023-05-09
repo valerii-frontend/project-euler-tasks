@@ -1,12 +1,22 @@
 # Project Euler
 
-```
+---
+
+---
+
+---
+
 Project Euler is a website that hosts a collection of challenging computational and mathematical problems. The project was created by Colin Hughes in 2001 and named after the famous mathematician Leonhard Euler.
 
 The problems on Project Euler range in difficulty from relatively easy to extremely difficult, and require a combination of mathematical insight and programming skill to solve. Many of the problems involve finding patterns or mathematical properties of numbers, while others require creative algorithms or complex computations.
 
 Project Euler is popular among mathematicians, computer scientists, and hobbyists who enjoy solving challenging problems. The website also provides a forum where users can discuss solutions and techniques for solving the problems.
-```
+
+---
+
+---
+
+---
 
 Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
