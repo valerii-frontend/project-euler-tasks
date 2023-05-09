@@ -27,7 +27,7 @@ Find the sum of all the multiples of 3 or 5 below the provided parameter value n
 
 ### Output examples
 
-```
+```javascript
 multiplesOf3and5(10) //23
 multiplesOf3and5(100) //2318
 multiplesOf3and5(1000) //233168
@@ -43,7 +43,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed n,
 
 ### Output examples
 
-```
+```javascript
 fiboEvenSum(10) // 10.
 fiboEvenSum(34) // 44.
 fiboEvenSum(60) // 44.
