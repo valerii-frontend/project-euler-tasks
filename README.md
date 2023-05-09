@@ -20,6 +20,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 
 1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - **_[SOLUTION](/tasks/fiboEvenSum.js)_**
 2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - **_[SOLUTION](tasks/multiplesOf3and5.js)_**
+3. [Problem 3: Largest prime factor](#problem-3-largest-prime-factor) - **_[SOLUTION](tasks/largestPrimeFactor.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
