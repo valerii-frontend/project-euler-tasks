@@ -1,6 +1,7 @@
 # Project Euler
 
 ## About
+
 <div align="center">
 
 Project Euler is a website that hosts a collection of challenging computational and mathematical problems. The project was created by Colin Hughes in 2001 and named after the famous mathematician Leonhard Euler.
@@ -8,16 +9,17 @@ Project Euler is a website that hosts a collection of challenging computational 
 The problems on Project Euler range in difficulty from relatively easy to extremely difficult, and require a combination of mathematical insight and programming skill to solve. Many of the problems involve finding patterns or mathematical properties of numbers, while others require creative algorithms or complex computations.
 
 Project Euler is popular among mathematicians, computer scientists, and hobbyists who enjoy solving challenging problems. The website also provides a forum where users can discuss solutions and techniques for solving the problems.
+
 </div>
 
 > Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 > These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?
+
 ## List
 
-1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - ***[SOLUTION](/tasks/fiboEvenSum.js)***
-2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - ***[SOLUTION](tasks/multiplesOf3and5.js)***
-
+1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - **_[SOLUTION](/tasks/fiboEvenSum.js)_**
+2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - **_[SOLUTION](tasks/multiplesOf3and5.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -28,9 +30,9 @@ Find the sum of all the multiples of 3 or 5 below the provided parameter value n
 ### Output examples
 
 ```javascript
-multiplesOf3and5(10) //23
-multiplesOf3and5(100) //2318
-multiplesOf3and5(1000) //233168
+multiplesOf3and5(10); //23
+multiplesOf3and5(100); //2318
+multiplesOf3and5(1000); //233168
 ```
 
 ## Problem 2: Even Fibonacci Numbers
@@ -44,10 +46,29 @@ By considering the terms in the Fibonacci sequence whose values do not exceed n,
 ### Output examples
 
 ```javascript
-fiboEvenSum(10) // 10.
-fiboEvenSum(34) // 44.
-fiboEvenSum(60) // 44.
-fiboEvenSum(1000) // 798.
-fiboEvenSum(100000) // 60696.
-fiboEvenSum(4000000) // 4613732.
+fiboEvenSum(10); // 10.
+fiboEvenSum(34); // 44.
+fiboEvenSum(60); // 44.
+fiboEvenSum(1000); // 798.
+fiboEvenSum(100000); // 60696.
+fiboEvenSum(4000000); // 4613732.
+```
+
+## Problem 3: Largest prime factor
+
+The prime factors of `13195` are `5, 7, 13` and `29`.
+
+What is the largest prime factor of the given number?
+
+### Output examples
+
+```javascript
+largestPrimeFactor(2); // a number.
+largestPrimeFactor(2); // 2.
+largestPrimeFactor(3); // 3.
+largestPrimeFactor(5); // 5.
+largestPrimeFactor(7); // 7.
+largestPrimeFactor(8); // 2.
+largestPrimeFactor(13195); // 29.
+largestPrimeFactor(600851475143); // 6857.
 ```
