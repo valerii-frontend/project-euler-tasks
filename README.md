@@ -1,5 +1,7 @@
 # Project Euler
 
+### [Free code camp](https://www.freecodecamp.org/learn/project-euler/)
+
 ## About
 
 <div align="center">
@@ -21,6 +23,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - **_[SOLUTION](/tasks/fiboEvenSum.js)_**
 2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - **_[SOLUTION](tasks/multiplesOf3and5.js)_**
 3. [Problem 3: Largest prime factor](#problem-3-largest-prime-factor) - **_[SOLUTION](tasks/largestPrimeFactor.js)_**
+4. [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product) - **_[SOLUTION](tasks/largestPalindromeProduct.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -72,4 +75,16 @@ largestPrimeFactor(7); // 7.
 largestPrimeFactor(8); // 2.
 largestPrimeFactor(13195); // 29.
 largestPrimeFactor(600851475143); // 6857.
+```
+
+## Problem 4: Largest palindrome product
+
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is `9009 = 91 × 99`
+
+Find the largest palindrome made from the product of two n-digit numbers.
+
+```javascript
+largestPalindromeProduct(2); // a number.
+largestPalindromeProduct(2); // 9009.
+largestPalindromeProduct(3); // 906609.
 ```
