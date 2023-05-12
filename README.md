@@ -83,8 +83,27 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 
 Find the largest palindrome made from the product of two n-digit numbers.
 
+### Output examples
+
 ```javascript
 largestPalindromeProduct(2); // a number.
 largestPalindromeProduct(2); // 9009.
 largestPalindromeProduct(3); // 906609.
+```
+
+## Problem 5: Smallest multiple
+
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from `1 to n`?
+
+### Output examples
+
+```javascript
+smallestMult(5); // number.
+smallestMult(5); //60.
+smallestMult(7); //420.
+smallestMult(10); // 2520.
+smallestMult(13); // 360360.
+smallestMult(20); // 232792560.
 ```
