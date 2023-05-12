@@ -25,6 +25,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 3. [Problem 3: Largest prime factor](#problem-3-largest-prime-factor) - **_[SOLUTION](tasks/3_largestPrimeFactor.js)_**
 4. [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product) - **_[SOLUTION](tasks/4_largestPalindromeProduct.js)_**
 5. [Problem 5: Smallest multiple](#problem-5-smallest-multiple) - **_[SOLUTION](tasks/5_smallestMultiple.js)_**
+6. [Problem 6: Sum square difference](#problem-6-sum-square-difference) - **_[SOLUTION](tasks/6_sumSquareDifference.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -107,4 +108,25 @@ smallestMult(7); //420.
 smallestMult(10); // 2520.
 smallestMult(13); // 360360.
 smallestMult(20); // 232792560.
+```
+
+## Problem 6: Sum square difference
+
+The sum of the squares of the first ten natural numbers is,
+
+`12 + 22 + ... + 102 = 385`
+The square of the sum of the first ten natural numbers is,
+
+`(1 + 2 + ... + 10)2 = 552 = 3025`
+Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is `3025 − 385 = 2640`
+
+Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
+
+### Output examples
+
+```javascript
+sumSquareDifference(10); // number.
+sumSquareDifference(10); // 2640.
+sumSquareDifference(20); // 41230.
+sumSquareDifference(100); // 25164150.
 ```
