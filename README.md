@@ -20,10 +20,11 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 
 ## List
 
-1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - **_[SOLUTION](/tasks/fiboEvenSum.js)_**
-2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - **_[SOLUTION](tasks/multiplesOf3and5.js)_**
-3. [Problem 3: Largest prime factor](#problem-3-largest-prime-factor) - **_[SOLUTION](tasks/largestPrimeFactor.js)_**
-4. [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product) - **_[SOLUTION](tasks/largestPalindromeProduct.js)_**
+1. [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5) - **_[SOLUTION](/tasks/1_multiplesOf3and5.js)_**
+2. [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers) - **_[SOLUTION](tasks/2_fiboEvenSum.js)_**
+3. [Problem 3: Largest prime factor](#problem-3-largest-prime-factor) - **_[SOLUTION](tasks/3_largestPrimeFactor.js)_**
+4. [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product) - **_[SOLUTION](tasks/4_largestPalindromeProduct.js)_**
+5. [Problem 5: Smallest multiple](#problem-5-smallest-multiple) - **_[SOLUTION](tasks/5_smallestMultiple.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
