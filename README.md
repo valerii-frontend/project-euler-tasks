@@ -26,6 +26,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 4. [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product) - **_[SOLUTION](tasks/4_largestPalindromeProduct.js)_**
 5. [Problem 5: Smallest multiple](#problem-5-smallest-multiple) - **_[SOLUTION](tasks/5_smallestMultiple.js)_**
 6. [Problem 6: Sum square difference](#problem-6-sum-square-difference) - **_[SOLUTION](tasks/6_sumSquareDifference.js)_**
+7. [Problem 7: 10001st prime](#problem-7-10001st-prime) - **_[SOLUTION](tasks/7_nthPrime.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -129,4 +130,21 @@ sumSquareDifference(10); // number.
 sumSquareDifference(10); // 2640.
 sumSquareDifference(20); // 41230.
 sumSquareDifference(100); // 25164150.
+```
+
+## Problem 7: 10001st prime
+
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+
+What is the nth prime number?
+
+### Output examples
+
+```js
+nthPrime(6); // number.
+nthPrime(6); // 13
+nthPrime(10); // 29.
+nthPrime(100); // 541.
+nthPrime(1000); // 7919.
+nthPrime(10001); // 104743.
 ```
