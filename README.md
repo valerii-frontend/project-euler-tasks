@@ -28,6 +28,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 6. [Problem 6: Sum square difference](#problem-6-sum-square-difference) - **_[SOLUTION](tasks/6_sumSquareDifference.js)_**
 7. [Problem 7: 10001st prime](#problem-7-10001st-prime) - **_[SOLUTION](tasks/7_nthPrime.js)_**
 8. [Problem 8: Largest product in a series](#problem-8-largest-product-in-a-series) - **_[SOLUTION](tasks/8_largestProductinaSeries.js)_**
+9. [Problem 9: Special Pythagorean triplet](#problem-9-special-pythagorean-triplet) - **_[SOLUTION](tasks/9_specialPythagoreanTriplet.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -183,4 +184,22 @@ Find the `n` adjacent digits in the 1000-digit number that have the greatest pro
 largestProductinaSeries(4); // number
 largestProductinaSeries(4); // 5832
 largestProductinaSeries(13); // 23514624000
+```
+
+## Problem 9: Special Pythagorean triplet
+
+A Pythagorean triplet is a set of three natural numbers, `a < b < c`, for which,
+
+`a^2 + b^2 = c^2`
+For example, `32 + 42 = 9 + 16 = 25 = 52.`
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc such that `a + b + c = n.`
+
+### Output examples
+
+```js
+specialPythagoreanTriplet(24); //  number.
+specialPythagoreanTriplet(24); // 480.
+specialPythagoreanTriplet(120); // 49920, 55080 or 60000
+specialPythagoreanTriplet(1000); // 31875000
 ```
