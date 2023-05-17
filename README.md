@@ -29,6 +29,7 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 7. [Problem 7: 10001st prime](#problem-7-10001st-prime) - **_[SOLUTION](tasks/7_nthPrime.js)_**
 8. [Problem 8: Largest product in a series](#problem-8-largest-product-in-a-series) - **_[SOLUTION](tasks/8_largestProductinaSeries.js)_**
 9. [Problem 9: Special Pythagorean triplet](#problem-9-special-pythagorean-triplet) - **_[SOLUTION](tasks/9_specialPythagoreanTriplet.js)_**
+10. [Problem 10: Summation of primes](#problem-10-summation-of-primes) - **_[SOLUTION](tasks/10_primeSummation.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
@@ -202,4 +203,20 @@ specialPythagoreanTriplet(24); //  number.
 specialPythagoreanTriplet(24); // 480.
 specialPythagoreanTriplet(120); // 49920, 55080 or 60000
 specialPythagoreanTriplet(1000); // 31875000
+```
+
+## Problem 10: Summation of primes
+
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below n.
+
+### Output examples
+
+```js
+primeSummation(17); //a number.
+primeSummation(17); //41.
+primeSummation(2001); //277050.
+primeSummation(140759); //873608362.
+primeSummation(2000000); //142913828922.
 ```
