@@ -30,7 +30,8 @@ Project Euler is popular among mathematicians, computer scientists, and hobbyist
 8. [Problem 8: Largest product in a series](#problem-8-largest-product-in-a-series) - **_[SOLUTION](tasks/8_largestProductinaSeries.js)_**
 9. [Problem 9: Special Pythagorean triplet](#problem-9-special-pythagorean-triplet) - **_[SOLUTION](tasks/9_specialPythagoreanTriplet.js)_**
 10. [Problem 10: Summation of primes](#problem-10-summation-of-primes) - **_[SOLUTION](tasks/10_primeSummation.js)_**
-11. [Problem 10: Summation of primes](#problem-10-summation-of-primes) - **_[SOLUTION](tasks/10_primeSummation.js)_**
+11. [Problem 11: Largest product in a grid](#problem-11-largest-product-in-a-grid) - **_[SOLUTION](tasks/11_largestGridProduct.js)_**
+12. [Problem 12: Highly divisible triangular number](#problem-12-highly-divisible-triangular-number) - **_[SOLUTION](tasks/12_divisibleTriangleNumber.js)_**
 
 ## Problem 1: Multiples of 3 and 5
 
